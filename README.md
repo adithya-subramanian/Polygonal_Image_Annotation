@@ -1,1 +1,1 @@
-# Stochastic_Variational_Segmentation_Data_Annotation
+# Polygonal_Image_Annotation
